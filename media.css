@@ -1,0 +1,34 @@
+
+@media (max-width: 768px) {
+    .link{
+        max-width: 400px;
+    }
+    .content_item_link-ul{
+        padding-top: 100px;
+    }
+    
+}
+@media (max-width: 567px) {
+    .link{
+        max-width: 300px;
+    }
+    .content_item_link-ul{
+        padding-top: 100px;
+    }
+    .content_item_link-ul a{
+        font-size: 20px;
+    }
+    
+}
+@media (max-width: 370px) {
+    .content_item_link-ul{
+        padding-top: 50px;
+    }
+    .link{
+        max-width: 200px;
+        padding: 15px;
+    }
+}
+@media (max-width: 320px) {
+    
+}
